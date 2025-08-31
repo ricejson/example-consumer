@@ -1,2 +1,16 @@
 github.com/ricejson/example-common v0.0.0-20250824133339-16caef6b5d05 h1:ROV9aKEBZyBfeo/a2OfSjcmLkrvdl5nVVgPuZdz0f3E=
 github.com/ricejson/example-common v0.0.0-20250824133339-16caef6b5d05/go.mod h1:OBc1zOhKvIrX1K0krUS3v8otiABKS5BezsqGLKMc+cA=
+github.com/ricejson/example-common v0.0.0-20250831041123-8c1b178355a4 h1:IiH0imXPVkwrqTaTK+RLYtswMKTLdHS5h5iQlgBOXPY=
+github.com/ricejson/example-common v0.0.0-20250831041123-8c1b178355a4/go.mod h1:OBc1zOhKvIrX1K0krUS3v8otiABKS5BezsqGLKMc+cA=
+github.com/ricejson/example-common v0.0.0-20250831044704-115cd60d00d8 h1:HgKK8pziAU7EiVVUzhZv+GUBzOEarxcllVSgc9TzNjI=
+github.com/ricejson/example-common v0.0.0-20250831044704-115cd60d00d8/go.mod h1:OBc1zOhKvIrX1K0krUS3v8otiABKS5BezsqGLKMc+cA=
+github.com/ricejson/rice-rpc-easy v0.0.0-20250830164148-db0844534995 h1:LEOe4k5nbbOq7dc2wYWdAz7YFlj/nn/EN0QAczmUpu4=
+github.com/ricejson/rice-rpc-easy v0.0.0-20250830164148-db0844534995/go.mod h1:znycEAFPkMZ5+ETIIaILFE6vUHpD/iRReJb8zPVOsqk=
+github.com/ricejson/rice-rpc-easy v0.0.0-20250831035851-0ce1fa7ccbf5 h1:E6IKo6/UZ8yXlN53p5MUypv+X5qdeYk4L9GJ3SfbVPU=
+github.com/ricejson/rice-rpc-easy v0.0.0-20250831035851-0ce1fa7ccbf5/go.mod h1:znycEAFPkMZ5+ETIIaILFE6vUHpD/iRReJb8zPVOsqk=
+github.com/ricejson/rice-rpc-easy v0.0.0-20250831042749-4e3b1c58a1f9 h1:9Lvm5qeDBIabwQh8KOkh8wdgdpFPamYm06JZOVVrCHM=
+github.com/ricejson/rice-rpc-easy v0.0.0-20250831042749-4e3b1c58a1f9/go.mod h1:znycEAFPkMZ5+ETIIaILFE6vUHpD/iRReJb8zPVOsqk=
+github.com/ricejson/rice-rpc-easy v0.0.0-20250831043245-f6075d11ec66 h1:AP4iG3Gi7YQG1UBVMU3956Oxo0zOcGHpi60lzUfpe5w=
+github.com/ricejson/rice-rpc-easy v0.0.0-20250831043245-f6075d11ec66/go.mod h1:znycEAFPkMZ5+ETIIaILFE6vUHpD/iRReJb8zPVOsqk=
+github.com/ricejson/rice-rpc-easy v0.0.0-20250831044402-a0f6fe6ceeeb h1:WU0QNRDs4hv66ZXQuKjq9SJ3xJkk+iJnJMh0VP3pH2U=
+github.com/ricejson/rice-rpc-easy v0.0.0-20250831044402-a0f6fe6ceeeb/go.mod h1:znycEAFPkMZ5+ETIIaILFE6vUHpD/iRReJb8zPVOsqk=

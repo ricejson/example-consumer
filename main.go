@@ -4,14 +4,14 @@ import (
 	"fmt"
 	"github.com/ricejson/example-common/model"
 	"github.com/ricejson/example-common/service"
+	"github.com/ricejson/example-consumer/impl"
 )
 
 func main() {
-	// todo 消费者需要替换为对应实现类对象
-	var userService service.UserService
+	var userService service.UserService = impl.NewUserServiceImpl()
 	var user = model.User{}
 	user.SetName("ricejson")
-	getUser, err := userService.GetUser(user)
+	getUser, err := userService.GetUser()
 	if err != nil {
 		fmt.Println("user == nil")
 	} else {
